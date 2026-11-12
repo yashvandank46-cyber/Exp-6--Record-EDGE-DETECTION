@@ -1,5 +1,7 @@
 # Exp-6--Record-EDGE-DETECTION
-
+## Developed By
+## Name: YASHVANDAN K
+## Reg No: 212225100060
 
 ## Aim
 
@@ -48,10 +50,7 @@ Display all edge-detected images for comparison.
 
 ---
 
-## Developed By
 
-- **Name:** YASHVANDAN K
-- **Register No:** 212225100060
 
 ---
 # Program
